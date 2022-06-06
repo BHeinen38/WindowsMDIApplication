@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDI", "MDI\MDI.csproj", "{DEAA7F80-D4A2-4DFC-88F8-9ACF60DF6F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAA7F80-D4A2-4DFC-88F8-9ACF60DF6F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAA7F80-D4A2-4DFC-88F8-9ACF60DF6F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAA7F80-D4A2-4DFC-88F8-9ACF60DF6F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAA7F80-D4A2-4DFC-88F8-9ACF60DF6F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29F0999-FF45-4010-9D5A-191CA7E5BC44}
+	EndGlobalSection
+EndGlobal
