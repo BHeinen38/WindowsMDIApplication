@@ -16,3 +16,4 @@ C:\Users\bailey.heinen\Desktop\MDIApplication\WindowsMDIApplication\MDI\MDI\obj\
 C:\Users\bailey.heinen\Desktop\MDIApplication\WindowsMDIApplication\MDI\MDI\obj\Debug\net6.0-windows\MDI.pdb
 C:\Users\bailey.heinen\Desktop\MDIApplication\WindowsMDIApplication\MDI\MDI\obj\Debug\net6.0-windows\MDI.genruntimeconfig.cache
 C:\Users\bailey.heinen\Desktop\MDIApplication\WindowsMDIApplication\MDI\MDI\obj\Debug\net6.0-windows\ref\MDI.dll
+C:\Users\bailey.heinen\Desktop\MDIApplication\WindowsMDIApplication\MDI\MDI\obj\Debug\net6.0-windows\MDI.Properties.Resources.resources
